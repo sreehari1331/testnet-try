@@ -1,3 +1,5 @@
 analayze 
+[pylama:pycodestyle]
+max_line_length = 120
 find solutions and alternatives
 pick the best one
